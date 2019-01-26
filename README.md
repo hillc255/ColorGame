@@ -14,7 +14,7 @@ https://hillc255.github.io/ColorGame/
 ## Animated Gif
 
 <p align="center">
- <kbd><img width="500" height="400" src="readme_assets/	ColorGame.gif"></kbd>
+ <kbd><img width="500" height="400" src="readme_assets/ColorGame.gif"></kbd>
 </p>
 
 ## Site

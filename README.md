@@ -33,12 +33,6 @@ This is a single screen web game.  The purpose is to select one of the six squar
 
 This is a "code along" project in the Udemy course.
 
-## API Reference
-
-## Tests (Future consideration!)
-
-Describe and show how to run the tests with code examples.
-
 ## Contributors
 
 Course project.

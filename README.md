@@ -11,6 +11,8 @@ The Color Game is the first project in Udemy's "Web Developer Bootcamp" with Ins
 Play the game here: </br>
 https://hillc255.github.io/ColorGame/
 
+## GIF
+
 <p align="center">
  <kbd><img width="300" height="533" src="readme_assets/sciencequiz.gif"></kbd>
 </p>

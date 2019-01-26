@@ -8,6 +8,7 @@ The Color Game is the first project in Udemy's "Web Developer Bootcamp" with Ins
 
 ## Demo
 
+Try it out! 
 Play the game here: </br>
 https://hillc255.github.io/ColorGame/
 

@@ -1,4 +1,4 @@
-
+/* Color variables */
 var numSquares = 6;
 var colors = [];
 var pickedColor;
@@ -9,6 +9,8 @@ var h1 = document.querySelector("h1");
 var resetButton = document.querySelector("#reset");
 var modeButtons = document.querySelectorAll(".mode");
 
+
+/* initialize ColorGame */
 init();
 
 function init(){
@@ -18,6 +20,7 @@ function init(){
     reset();
 }
 
+/* functions */
 function setupModeButtons(){
         for(var i = 0; i < modeButtons.length; i++){
         modeButtons[i].addEventListener("click", function(){

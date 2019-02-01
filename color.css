@@ -1,7 +1,7 @@
 body{
     background-color: #232323;
     margin: 0;
-    font-family: "Monserrat", "Avenir"
+    font-family: "Monserrat", "Avenir";
 }
 
 .square{
@@ -41,16 +41,11 @@ h1{
     width: 20%;
 }
 
-/* span{
-    color:white;
-} */
-
 #stripe{
     background: white;
     height: 30px;
     text-align: center;
     text-color: black;
-
 }
 
 .selected{
